@@ -1,0 +1,10 @@
+---
+Titel: dfgdfgsdfggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggsdfsdf
+---
+
+# Рукводство
+
+Здесь описание системы и инструкции.
+
+
+
