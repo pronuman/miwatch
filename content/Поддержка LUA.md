@@ -8,8 +8,8 @@
 |Xiaomi Watch S4|Да|
 |Xiaomi Watch S4 41mm|Да|
 |Xiaomi Watch S3|Да|
-|Xiaomi Watch 2 (Wear OS)|Нет |
-|Xiaomi Watch 2 Pro (Wear OS)|Нет |
+|Xiaomi Watch 2 |Нет |
+|Xiaomi Watch 2 Pro |Нет |
 |Xiaomi Watch S1 Pro|Нет|
 |Xiaomi Watch S1|Нет|
 |Xiaomi Watch S1 Active|Нет|
@@ -40,7 +40,7 @@
 
 <div class="table-os1">
 
-|**Smart Band **|**LUA**|
+|**Smart Band** |**LUA**|
 |---|---|
 |Smart Band 10|Да|
 |Smart Band 9 Pro|Да|
