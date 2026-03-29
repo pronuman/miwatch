@@ -1,7 +1,7 @@
 
 <div class="table-os1">
 
-|**Модель**|**Разрешение**|
+|**Xiaomi Watch**|**Разрешение**|
 |---|---|
 |Xiaomi Watch S5|466 × 466 px|
 |Xiaomi Watch S4|466 × 466 px|
@@ -15,5 +15,52 @@
 |Mi Watch Color|454 × 454 px|
 |Mi Watch Revolve|454 × 454 px|
 |Mi Watch|448 × 368 px|
+
+<div>
+
+<div class="table-os1">
+
+| **Redmi Watch**           | **Разрешение** |
+| -------------------- | -------------- |
+| Redmi Watch 6        | 450 × 390 px   |
+| Redmi Watch 5        | 450 × 390 px   |
+| Redmi Watch 5 Lite   | 410 × 502 px   |
+| Redmi Watch 5 Active | 320 × 385 px   |
+| Redmi Watch 4        | 390 × 450 px   |
+| Redmi Watch 3        | 390 × 450 px   |
+| Redmi Watch 3 Active | 240 × 280 px   |
+| Redmi Watch 2        | 320 × 360 px   |
+| Redmi Watch 2 Lite   | 320 × 360 px   |
+| Redmi Watch          | 320 × 320 px   |
+| Mi Watch Lite        | 320 × 320 px   |
+
+<div>
+
+<div class="table-os1">
+
+| **Xiaomi Smart Band**                    | **Разрешение**          |
+| ----------------------------- | ----------------------- |
+| Smart Band 10 Ceramic Edition | 192 × 490 px            |
+| Smart Band 10                 | 192 × 490 px            |
+| Smart Band 9 Pro              | 336 × 480 px            |
+| Smart Band 9                  | 192 × 490 px            |
+| Smart Band 8 Pro              | 336 × 480 px            |
+| Smart Band 8 Active           | 172 × 320 px            |
+| Smart Band 8                  | 192 × 490 px            |
+| Smart Band 7 Pro              | 280 × 456 px            |
+| Smart Band 7 NFC              | 192 × 490 px            |
+| Smart Band 7                  | 192 × 490 px            |
+| Mi Smart Band 6 NFC           | 152 × 486 px            |
+| Mi Smart Band 6               | 152 × 486 px            |
+| Mi Smart Band 5 NFC           | 126 × 294 px            |
+| Mi Smart Band 5               | 126 × 294 px            |
+| Mi Smart Band 4c (Redmi Band) | 120 × 220 px            |
+| Mi Mijia Hey+ (CN)            | 120 × 240 px            |
+| Mi Smart Band 4 NFC (CN)      | 120 × 240 px            |
+| Mi Smart Band 4               | 120 × 240 px            |
+| Mi Band 3 / 3 NFC             | 128 × 80 px             |
+| Mi Band HRX Edition (IN)      | 96 × 32 px        |
+| Mi Band 2                     | 72 × 40 px              |
+| Mi Band 1S / 1                | (без экрана) |
 
 <div>
