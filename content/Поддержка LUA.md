@@ -2,7 +2,7 @@
 
 <div class="table-os1">
 
-|**Xiaomi Watch**|**Поддержка LUA**|
+|**Xiaomi Watch**|**LUA**|
 |---|---|
 |Xiaomi Watch S5|Да|
 |Xiaomi Watch S4|Да|
@@ -22,7 +22,7 @@
 
 <div class="table-os1">
 
-|**Redmi Watch**|**Поддержка LUA**|
+|**Redmi Watch**|**LUA**|
 |---|---|
 |Redmi Watch 6|Да|
 |Redmi Watch 5|Да|
@@ -40,7 +40,7 @@
 
 <div class="table-os1">
 
-|**Smart Band **|**Поддержка LUA**|
+|**Smart Band **|**LUA**|
 |---|---|
 |Smart Band 10 Ceramic Edition|Да|
 |Smart Band 10|Да|

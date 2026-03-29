@@ -95,6 +95,9 @@
       background-color: var(--lightgray); /* Фон заголовков */
       font-weight: 600;                   /* Жирный шрифт */
       color: var(--secondary);            /* Цвет текста заголовков */
+	  padding-top: 8px !important;    /* Высокая шапка */
+      padding-bottom: 8px !important; /* Высокая шапка */
+	  vertical-align: middle;
     }
 
    /* Настройка ПЕРВОЙ колонки (Модель) */
